@@ -12,7 +12,7 @@
 ![Asset Store Content](https://img.shields.io/badge/Asset%20Store%20content-lightgrey)
 ![Versioned in Git](https://img.shields.io/badge/-Git-black)
 
-<span style="color:grey">My last big project started at 2020 holidays and waiting for enought time for ends it. I spend about 4 weeks designing, developing, programming, creating models and graphics. I tries to create as many content I can, only few of it are downloaded from Asset Store. All work is documented as Devlog series on my YouTube Channel (link below). This is my favourite project of my life.</span>
+<span style="color:grey">My last big project started at 2020 holidays and waiting for enought time for ends it. I spend about 4 weeks designing, developing, programming, creating models and graphics. I tried to create as many content I can, only few of it are downloaded from Asset Store. All work is documented as Devlog series on my YouTube Channel (link below). This is my favourite project of my life.</span>
 
 [Link to screenshots](screenshots/pixman/README.md) |
 [Link to my YouTube Channel where I talk about development](https://www.youtube.com/playlist?list=PLzwDWQHoTBVPsANI4DF-_mXXycenyuYif)
@@ -55,8 +55,7 @@
 
 <span style="color: grey">Project designed and developed by five-person team as a project of Software Engineering (Inżynieria Oprogramowania) subject on Silesian University of Technology in 2020.</span>
 
-[Link for website](?) |
-[Link for sources](?)
+[Link for sources](https://github.com/blazejhanzel/wypozyczalnia-rowerow-iop)
 
 
 ### **Cassette Engine**
@@ -126,7 +125,7 @@
 <span style="color:grey">Application for managing .desktop files in Linux. Designed to use with GNOME3 Dash and Gtk+. Developed in 2017.</span>
 
 [Link for sources](https://github.com/blazejhanzel/GNOME-Shortcut-Manager) |
-[Link to my blogs post about this program](?)
+[Link to my blogs post about this program](https://www.dobreprogramy.pl/blaa-x/Dodawanie-skrotow-w-GNOME-Unity-Ubuntu-Dash-do-recznie-zainstalowanych-aplikacji,84167.html)
 
 
 ### **GGrive**
@@ -137,7 +136,7 @@
 <span style="color:grey">My first public application developed about 2015/2016 for being graphical interface for [grive](https://github.com/Grive/grive) application. Sadly, no sources and binaries left for today.</span>
 
 
-### **Wapet Jalium** | Adventure Game
+### **Wapet Jalium: Floating Island** | Adventure Game
 ![C# powered](https://img.shields.io/badge/C%23-darkgreen)
 ![Developed in Unity](https://img.shields.io/badge/Unity-444444)
 ![Asset Store Content](https://img.shields.io/badge/Asset%20Store%20content-lightgrey)
@@ -145,4 +144,4 @@
 <span style="color:grey">My first not-playable-game where I learned to use all of the tools for gamedev. Models and graphics I used were downloaded from Unity Asset Store I started project about 2013 and abandon it year later. Some of the screenshots are still available in web but sources and binaries dissapeared years ago.</span>
 
 [Link to IndieDB](https://www.indiedb.com/games/wapet-jalium/images) |
-[Link to screenshots](?)
+[Link to screenshots](screenshots/wapet-jalium/README.md)
