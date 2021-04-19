@@ -31,8 +31,7 @@
 
 <span style="color:grey">Application, simple website and backend created on Silesian University of Technology in 2020/2021 as a project of Java in Internet and Mobile Devices (Java w Internecie i Urządzeniach Mobilnych) subject. Mixes most of technologies I learned last years.</span>
 
-[Link for application](?) |
-[Link for website](?)
+[Link for sources](https://github.com/blazejhanzel/wypozyczalnia-rowerow-iop)
 
 
 ### **Prime Number Calculator**
