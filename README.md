@@ -19,6 +19,37 @@
 [Link to my YouTube Channel where I talk about development](https://www.youtube.com/playlist?list=PLzwDWQHoTBVPsANI4DF-_mXXycenyuYif)
 
 
+### **Forum React App**
+![HTML powered](https://img.shields.io/badge/HTML-orange)
+![CSS powered](https://img.shields.io/badge/-CSS-lightblue)
+![JavaScript powered](https://img.shields.io/badge/-JavaScript-yellow)
+![React powered](https://img.shields.io/badge/React-6699ff)
+![Versioned in Git](https://img.shields.io/badge/-Git-black)
+
+<details>
+Project designed and developed as part of subject on Silesian University of Technology in 2020/2021. Combines popular technologies to create simple forum with basic moderation tools.
+</details>
+
+[Link for sources](https://github.com/blazejhanzel/projekt-pp-frontend) |
+[Link for website](https://blazejhanzel.github.io/projekt-pp-frontend)
+
+
+### **Detailing Studio Resource Management App**
+![HTML powered](https://img.shields.io/badge/HTML-orange)
+![JavaScript powered](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js powered](https://img.shields.io/badge/-Node.js-brightgreen)
+![React powered](https://img.shields.io/badge/React-6699ff)
+![Bootstrap powered](https://img.shields.io/badge/-Bootstrap-blue)
+![Versioned in Git](https://img.shields.io/badge/-Git-black)
+
+<details>
+Project designed and developed as part of subject on Silesian University of Technology in 2020/2021. Combines popular technologies to create company-management application with employee and resource management and reports.
+</details>
+
+[Link for sources](https://github.com/blazejhanzel/projekt-tab) |
+[Link for website](https://blazejhanzel.github.io/projekt-tab/)
+
+
 ### **To Do List application**
 ![Java powered](https://img.shields.io/badge/Java-ff7700)
 ![JavaFX powered](https://img.shields.io/badge/JavaFX-grey)
