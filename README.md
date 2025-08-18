@@ -1,4 +1,4 @@
-# Hi, I’m Błażej Hanzel 👋
+# Hi, I’m Błażej 👋
 
 **Game Developer → SysAdmin → Aspiring DevOps Engineer**
 
