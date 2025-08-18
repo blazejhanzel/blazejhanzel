@@ -86,8 +86,8 @@ An early 3D adventure project exploring Unity and custom asset creation. Most of
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejhanzel&theme=radical&show_icons=true&count_private=true)  
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejhanzel&layout=compact&theme=radical)
+![Top langs](https://grs.iuppiter.ovh/top-langs/?username=blazejhanzel&layout=compact&theme=radical)
 
 ---
 
