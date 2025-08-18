@@ -1,4 +1,4 @@
-# Hi, I’m Błażej Hanzel 👋
+# Hi, I’m Błażej 👋
 
 **Game Developer → SysAdmin → Aspiring DevOps Engineer**
 
@@ -24,7 +24,6 @@ Even the games I love, like *Factorio*, are all about efficiency and automated s
 - **Scripting**: Bash, PowerShell
 - **Other:** Linux administration, Windows administration, Network troubleshooting, CI/CD pipelines
 
----
 
 ## 🌟 Highlighted Projects
 
@@ -82,14 +81,12 @@ An early 3D adventure project exploring Unity and custom asset creation. Most of
 - **Year**: 2020 – my last project before adopting Git; since then, version control has become a core part of my workflow  
 - **Documentation**: [Screenshots](screenshots/pixman/README.md)  
 
----
 
 ## 📈 GitHub Stats
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejhanzel&layout=compact&theme=radical)
 ![Top langs](https://grs.iuppiter.ovh/top-langs/?username=blazejhanzel&layout=compact&theme=radical)
 
----
 
 ## 🔮 What’s Next?
 
