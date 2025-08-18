@@ -84,7 +84,7 @@ An early 3D adventure project exploring Unity and custom asset creation. Most of
 
 ## 📈 GitHub Stats
 
-![Top langs](https://grs.iuppiter.ovh/top-langs/?username=blazejhanzel&layout=compact&theme=transparent&langs_count=10)
+![Top langs](https://grs.iuppiter.ovh/top-langs/?username=blazejhanzel&layout=compact&theme=transparent&langs_count=10&exclude_repo=cassette-engine,classic-poker-game,kalwaria-website)
 
 
 ## 🔮 What’s Next?
