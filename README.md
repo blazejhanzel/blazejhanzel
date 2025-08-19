@@ -32,66 +32,14 @@ Even the games I love, like *Factorio*, are all about efficiency and automated s
 ![SFML](https://img.shields.io/badge/SFML-91c154?logo=sfml&logoColor=white)
 
 
-## 🔧 DevOps Portfolio
-For a detailed view of my DevOps journey, tools, and example projects, check out 👉 [My DevOps Portfolio](./DevOps.md) ☁️
-
-
 ## 🌟 Highlighted Projects
 
-Here are some of my favorite and most representative projects:
+☁️ For a detailed view of my DevOps journey, tools, and example projects, check out 👉 [My DevOps Portfolio](./DevOps.md)
 
-### Astro Strike – Retro Space Shooter
+🕹️ Curious about my game development journey, tools for devs, or my YouTube devlog series? Explore everything related to my gamedev hobby at 👉 [www.blazedev.games](https://blazedev.games)
 
-![Unity](https://img.shields.io/badge/Unity-444444?logo=Unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-444444?logo=csharp&logoColor=white)
-
-<details>
-<summary>
-An immersive retro-style space shooter where you pilot a drone to fend off alien invaders across multiple worlds.
-</summary>
-
-- **Platforms**: Mobile version (with in-app purchases & ads); later ported to **desktop (PC & Mac)** via itch.io — balanced to be fully playable without paywalls.
-- **Devlog Series**: Documented the entire development journey on my YouTube channel:
-[Devlog Playlist](https://youtube.com/playlist?list=PLB37X6IUqpFXX4CeAh-iiTxxK2_jr2CHM&si=i5KGzX6lz5atWI7B)  
-- **Tech Stack**: Unity (C#), pixel art visuals, procedural upgrade systems  
-- **Website**: [blazedev.games/games/astro-strike](https://blazedev.games/games/astro-strike)
-</details>
-
----
-
-### Blaze Builder – Easy Multiplatform Build
-![Unity](https://img.shields.io/badge/Unity_Tool-444444?logo=unity)
-![C#](https://img.shields.io/badge/C%23-444444?logo=c-sharp&logoColor=white)
-
-<details>
-<summary>
-A Unity Editor extension that lets developers build their game to multiple platforms with a single click.
-</summary>
-
-- **Purpose**: Automates repetitive build steps and speeds up release workflows  
-- **Tech Stack**: Unity (C#), custom editor scripting  
-- **Website**: [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/blaze-builder-easy-multiplatform-build-264619)
-</details>
-
----
-
-### Academic Project – Game Universe Creation Tool
-![React](https://img.shields.io/badge/React-444444?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-444444?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-444444?logo=mongodb&logoColor=white)
-
-<details>
-<summary>
-A multi-platform web application concept designed to help writers and game developers create logically consistent story universes.
-</summary>  
-
-- **Academic Context**: Engineering thesis project (prototype stage, not publicly released)  
-- **Core Idea**: Manage characters, events, and locations in shared story universes, ensuring logical consistency between narrative elements  
-- **Collaboration Features**: Multi-user support with role management (admin + contributors)  
-- **Tech Stack**: React frontend, Node.js backend, MongoDB for data storage  
-
-> 📖 Inspired by challenges in **non-linear storytelling** (games, novels, open-world narratives), the project aimed to provide a tool to avoid plot inconsistencies and streamline collaborative worldbuilding.
-</details>
+💻 Interested in my other programming projects?  
+Check out my GitHub repositories — especially the pinned ones – below.
 
 
 ## 🔮 What’s Next?
