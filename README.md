@@ -40,7 +40,3 @@ To strengthen my DevOps profile, I plan to add:
 - **Containerized environments** (Docker + Kubernetes demos)  
 - **Infrastructure automation** (Terraform + cloud deployment examples)  
 - **Monitoring & logging tools** (Prometheus, Grafana, Zabbix)
-
----
-
-Check also my [GitHub Stats](github-stats.md).
