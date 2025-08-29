@@ -25,9 +25,9 @@ Even the games I love, like *Factorio*, are all about efficiency and automated s
 
 ## 🌟 Highlighted Projects
 
-☁️ For a detailed view of my DevOps journey, tools, and example projects, check out 👉 [My DevOps Portfolio](./DevOps.md)
+☁️ For a detailed view of my **DevOps journey**, tools, and example projects, check out 👉 [My DevOps Portfolio](./DevOps.md)
 
-🕹️ Curious about my game development journey, tools for devs, or my YouTube devlog series? Explore everything related to my gamedev hobby at 👉 [www.blazedev.games](https://blazedev.games)
+🕹️ Curious about my **game development journey**, tools for devs, or my YouTube devlog series? Explore everything related to my gamedev hobby at 👉 [www.blazedev.games](https://blazedev.games)
 
 💻 Interested in my other programming projects?  
 Check out my GitHub repositories — especially the pinned ones – below.
