@@ -24,6 +24,18 @@ Here’s an example project:
 
 [![gamedev-portoflio](https://github-readme-stats.vercel.app/api/pin/?username=blazejhanzel&repo=gamedev-portfolio)](https://github.com/blazejhanzel/gamedev-portfolio)
 
+
+## 🚢 Docker Projects
+
+### Personal & Server Containers
+
+Docker has become an essential part of my workflow, both for development and deployment.  
+I use Docker to test applications locally on my PC, host public demos on my servers, and run private services for myself and my family.
+
+Here’s a repository with the Docker Compose setups I use for personal projects and home automation:
+
+[![docker-composes](https://github-readme-stats.vercel.app/api/pin/?username=blazejhanzel&repo=docker-composes)](https://github.com/blazejhanzel/docker-composes)
+
 ---
 
 Stay tuned for updates!
